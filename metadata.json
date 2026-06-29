@@ -1,0 +1,6 @@
+{
+  "name": "SMS Forwarder",
+  "description": "A centralized admin panel to forward incoming SMS messages to Webhooks, Telegram, Discord, Slack, and Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
